@@ -1,6 +1,4 @@
-package com.tom.aaa;
-
-import com.tom.Student; 
+package com.tom;
 
 public class GrateStudent extends Student{
  public GrateStudent() {
