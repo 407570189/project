@@ -9,4 +9,6 @@ public class SoldTicket {
 		p.print();
 	}
 
+	public static void main(String[] args) {
+
 }
