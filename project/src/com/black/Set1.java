@@ -9,7 +9,7 @@ public class Set1 {
 		HashSet<Integer> poker =new HashSet();
 		for(int i =1;i<=13;i++){
 			poker.add(i);
-		
+			
 		System.out.print(i+" ");
 		}
 
